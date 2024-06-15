@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Random file in feature
-=======
-Random file in feature
->>>>>>> ea40711 (rename random file)
